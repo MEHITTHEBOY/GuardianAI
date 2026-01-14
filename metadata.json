@@ -1,0 +1,10 @@
+
+{
+  "name": "GuardianAI - Empowering Women's Safety",
+  "description": "A comprehensive AI-powered safety platform featuring real-time SOS alerts, secure location sharing, Gemini-driven route safety analysis, and an intelligent emergency assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
